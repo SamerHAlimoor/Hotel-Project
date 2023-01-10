@@ -1,9 +1,9 @@
 # Hotel Project
 
-   <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/add%20attendance.png" width="100%" alt="Login Page"></a></p>
-     <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/add%20booking.png" width="100%" alt="Login Page"></a></p>
-    <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/add%20room.png" width="100%" alt="Login Page"></a></p>
-    <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/add%20staff.png" width="100%" alt="Login Page"></a></p>
+   <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/add%20attendance.PNG" width="100%" alt="Login Page"></a></p>
+     <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/add%20booking.PNG" width="100%" alt="Login Page"></a></p>
+    <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/add%20room.PNG" width="100%" alt="Login Page"></a></p>
+    <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/add%20staff.PNG" width="100%" alt="Login Page"></a></p>
     <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/attendance.PNG" width="100%" alt="Login Page"></a></p>
      <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/booking.PNG" width="100%" alt="Login Page"></a></p>
     <img src="https://github.com/SamerHAlimoor/Hotel-Project/blob/main/employee.PNG" width="100%" alt="Login Page"></a></p>
